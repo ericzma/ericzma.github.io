@@ -92,6 +92,3 @@ Some custody platforms (Unchained, Casa) automate this process through secure cl
 - **Key reuse** — Once you recover the full key, you still have the risk of storing a complete key again. Plan for rotating or retiring sharded keys after one-time recovery.
 
 For most users, sharding complements but doesn’t replace multisig or standard cold storage. It’s most valuable when you need resilience against loss (fire, theft) without on-chain complexity, or as part of a broader institutional custody framework.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/private-key-sharding-a-technical-guide/).

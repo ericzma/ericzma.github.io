@@ -52,6 +52,3 @@ SegWit adoption accelerated after 2021 when Taproot launched, which builds on Se
 If you’re holding coins in legacy addresses, they remain secure—SegWit is not a security upgrade, it’s a data structure optimization. However, spending from legacy addresses incurs higher fees. Most modern wallets handle this automatically, consolidating legacy UTXOs to SegWit addresses during normal use.
 
 For new transactions, always use SegWit or Taproot addresses. The fee savings are immediate and compound significantly over time if you transact frequently. Taproot offers marginal additional benefits for complex scripts and privacy applications, but native SegWit is sufficient for standard sends and receives.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/what-is-btc-segwit-and-its-impact-on-transaction-fees/).

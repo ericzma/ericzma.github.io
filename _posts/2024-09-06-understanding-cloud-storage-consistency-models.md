@@ -117,6 +117,3 @@ Start with the question: **What breaks if the data is wrong for 5 seconds?**
 - **Logs and events:** Monotonic writes. Order is critical.
 
 Most modern systems are hybrid. S3 provides strong consistency within a region (as of 2024), eventual across regions. DynamoDB lets you choose per-request. Cosmos DB offers multiple selectable levels. Build for strong consistency by default, then relax it only where measured performance data justifies the operational complexity.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/understanding-cloud-storage-consistency-models/).

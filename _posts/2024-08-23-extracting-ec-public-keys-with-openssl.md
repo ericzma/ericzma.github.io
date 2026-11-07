@@ -125,6 +125,3 @@ diff pub_from_priv.txt pub_extracted.txt
 ```
 
 No output means they match.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/extracting-ec-public-keys-with-openssl/).

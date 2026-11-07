@@ -89,6 +89,3 @@ In 2026, you’re far more likely to encounter Raft in production systems. The a
 Paxos remains theoretically important and underpins some critical systems, but Multi-Paxos needed significant clarification work (see Paxos Made Practical by Google researchers) to become production-viable.
 
 If you’re building a distributed system from scratch today, Raft is the pragmatic choice. You’ll ship faster, debug easier, and the available tooling and community knowledge is substantially deeper.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/comparing-paxos-and-raft/).

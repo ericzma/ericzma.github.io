@@ -240,6 +240,3 @@ Keep recursive inlining enabled (don’t use `noinline`) when:
 - You’ve tested and verified the stack usage is within limits
 
 Use `-O2` instead of `-O3` during development if you need cleaner stack traces for debugging without completely disabling inlining.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/gcc-may-save-you-some-recursive-functions-calls-an-analysis-of-a-function-call-stack-length-example/).

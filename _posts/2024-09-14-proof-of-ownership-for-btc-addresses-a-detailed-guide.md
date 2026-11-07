@@ -101,6 +101,3 @@ Web services often provide verification tools. For example:
 Legitimate services won’t ask you to sign messages outside their official platforms. If someone sends you a message requesting a signature via email or chat, verify it’s actually from the service before proceeding. Scammers may try to trick you into signing messages that grant them control or access.
 
 Always confirm the exact challenge text. Even a single character difference creates a completely different valid signature, so malicious modifications would fail verification—but only if you’re paying attention.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/proof-of-ownership-for-btc-addresses-a-detailed-guide/).

@@ -91,6 +91,3 @@ Consider automation and containerization for consistency across environments. In
 ## Quick Reference
 
 This extended guide covers the topic beyond the original article scope. For specialized needs, refer to official documentation or community resources. Practice in test environments before production deployment.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/whats-the-difference-between-memory-coherence-and-consistency/).

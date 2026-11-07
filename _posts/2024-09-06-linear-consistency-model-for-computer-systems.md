@@ -71,6 +71,3 @@ The choice depends on your workload. A stock exchange needs linearizability. A s
 **DynamoDB**: Offers eventual consistency by default; strong consistency is available per-request but at higher latency cost.
 
 When designing systems, measure whether linearizability is actually required for your use case. Many teams over-engineer consistency guarantees and pay the latency penalty unnecessarily.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/linear-consistency-model-for-computer-systems/).

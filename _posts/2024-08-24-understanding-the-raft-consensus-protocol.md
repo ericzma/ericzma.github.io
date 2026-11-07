@@ -85,6 +85,3 @@ Raft is widely used in systems like etcd, Consul, and LiteFS. When implementing 
 - Monitor leader election frequency and log replication lag. High election rates indicate timeout mistuning.
 
 Raft’s strength is clarity and practicality. The algorithm is straightforward to reason about and implement correctly, which has made it the standard choice for new distributed systems.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/understanding-the-raft-consensus-protocol/).

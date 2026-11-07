@@ -50,6 +50,3 @@ Instead of the outdated “wait for 6 confirmations” heuristic, modern practic
 When building applications, treat finalized blocks as immutable. Unfinalized blocks should be handled carefully — display them as “pending confirmation” to users, and prepare to revert any state changes if a reorg occurs.
 
 Monitor your node’s logs for unexpected reorgs. A single reorg of 2-3 blocks is noise; repeated deep reorgs indicate either network issues or a local sync problem. Reorgs deeper than the finality window indicate a serious protocol failure or active attack.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/understanding-temporary-forks-and-reorganization-in-blockchain/).

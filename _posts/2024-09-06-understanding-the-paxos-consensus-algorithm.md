@@ -90,6 +90,3 @@ Paxos (or a variant) makes sense if you need:
 If you can tolerate eventual consistency, simpler replication (like gossip or primary-backup) is more practical. If you need Byzantine fault tolerance (malicious nodes), use algorithms like PBFT or Tendermint instead.
 
 For new systems, seriously consider Raft first—it’s easier to understand, implement, and debug. Paxos remains valuable for understanding distributed consensus theory and for inheriting systems built on it.
----
-
-Originally published on [SysTutorials](https://www.systutorials.com/understanding-the-paxos-consensus-algorithm/).
