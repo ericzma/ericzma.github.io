@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 # Eric (Zhiqiang) Ma
@@ -27,6 +27,6 @@ or
 
 Email: zma [at] [this website domain]
 
-## Links
+## Blog
 
-- [Technical writings](https://www.systutorials.com/author/zma/)
+See the [posts index]({{ '/posts/' | relative_url }}) for all articles.
