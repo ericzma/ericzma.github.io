@@ -1,3 +1,6 @@
 title: Eric's Site
 description: Eric (Zhiqiang) Ma's personal site
+author: Eric Ma
 theme: minima
+permalink: /:title/
+show_excerpts: true

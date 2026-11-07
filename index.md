@@ -1,11 +1,12 @@
 ---
-layout: page
-title: Eric (Zhiqiang) Ma
+layout: home
 ---
 
+# Eric (Zhiqiang) Ma
+
 I am a technical professional who combines hands-on expertise in designing
-complex systems (financial, distributed, blockchain) with proven experience
-in leading engineering teams and managing large-scale software projects.
+complex systems (financial, distributed, blockchain) with proven experience in
+leading engineering teams and managing large-scale software projects.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/ericzma/).
 
