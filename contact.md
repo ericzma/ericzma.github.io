@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+nav_exclude: true
 ---
 
 You can reach me in the following ways.

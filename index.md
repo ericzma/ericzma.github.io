@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Eric (Zhiqiang) Ma
+nav_exclude: true
 ---
-
-# Eric (Zhiqiang) Ma
 
 I am a technical professional who combines hands-on expertise in designing
 complex systems (financial, distributed, blockchain) with proven experience in

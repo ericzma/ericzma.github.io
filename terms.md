@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terms and Policy
+nav_exclude: true
 ---
 
 All are provided "AS IS" with no warranties of any kind. Use the services and
