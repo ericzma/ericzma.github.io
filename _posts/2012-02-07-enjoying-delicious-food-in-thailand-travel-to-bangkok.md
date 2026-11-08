@@ -1,7 +1,7 @@
 ---
 title: "Enjoying Delicious Food in Thailand – Travel to Bangkok"
 date: 2012-02-07T15:45:48
-author: Vivian Zhang
+author: Eric Ma
 layout: post
 ---
 My wife and I traveled to Bangkok, Thailand from Jan. 22 to Jan. 25 in 2012 during the Chinese New Year holiday. The best part of Bangkok for us is the delicious Thai food there. A large part of our time is to find various restaurants and enjoy the food there. Besides the food, we relax ourselves with a Thai Massage Spa.
