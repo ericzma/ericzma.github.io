@@ -1,6 +1,0 @@
-Dr. Eric Zhiqiang Ma is currently the Co-founder and CTO of Hututa Technologies Limited. Hututa develops high-performance big data technology and cloud computing systems. At Hututa, Eric leads the R&D team designing and building large-scale data storage and processing systems. The technology built, Data Thinker, is the fastest big data technology in the world today, and supports a wide spectrum of applications including real-time, interactive and OLTP workloads. Efficiently supporting known big data computation, Data Thinker is 10-100 times faster than Hadoop, and 1.5-5 times faster than Spark.
-
-Prior to Hututa, Eric conducted systems research on distributed computing and storage systems for cloud computing. He built the world's first datacenter-scale virtual machine that runs as fast as traditional VMMs on single nodes and scales to many nodes at datacenter scale to support large parallel programs. Eric co-authored 8 research papers and is the co-inventor of 2 patents.
-
-Eric holds a Bachelor's degree in Computer Science from Fudan University and a PhD degree in Computer Science and Engineering from the Hong Kong University of Science and Technology. He is a member of the Association for Computer Machinery and a member of Special Interest Group on Operating Systems (SIGOPS).
-
