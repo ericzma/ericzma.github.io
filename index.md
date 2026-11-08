@@ -27,6 +27,6 @@ or
 
 Email: zma [at] [this website domain]
 
-## Blog
+## Posts
 
 See the [posts index]({{ '/posts/' | relative_url }}) for all articles.
