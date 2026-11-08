@@ -1,0 +1,8 @@
+@inproceedings{ma10mrlite,
+    author = {Zhiqiang Ma and Lin Gu}, 
+    title = {The Limitation of {MapReduce}: A Probing Case and a Lightweight Solution},
+    year = 2010,
+    booktitle = {CLOUD COMPUTING 2010: Proc. of the 1st Intl. Conf. on Cloud Computing, GRIDs, and Virtualization},
+    pages = {68--73},
+}
+

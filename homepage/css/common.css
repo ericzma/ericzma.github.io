@@ -1,0 +1,223 @@
+/* stylesheet */
+
+body, table {
+	background-color: white;
+	margin:0 auto;
+	font-family: arial,sans-serif;
+	font-size:12pt;
+    line-height:1.35;
+	max-width:800px;
+    padding: 10px;
+	color:#222;
+}
+
+/*Links*/
+a:link {
+	text-decoration:none;
+	border-bottom: 1px /*dotted*/ ;
+	color:#000066;
+}
+
+a:visited {
+	text-decoration:none;
+	border-bottom: 1px /*dotted*/ ;
+}
+
+a:hover {
+   text-decoration:underline;
+}
+
+div.longdesc-link {
+	float:right;
+	color:#999;
+}
+
+.toc a, .qandaset a {
+	font-weight:normal;
+}
+
+/*headings*/
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Palatino Linotype","URW Palladio L","palladio l",palatino,"book antiqua",times,serif;
+	overflow:auto;
+	margin-top: 0.6em;
+	margin-bottom: 0.6em;
+	background-color: transparent;
+
+}
+
+h1 {
+	font-size:3.0em;
+}
+
+h1, h1 a, h1 a:hover {
+    color: #333;
+    background:none;
+    text-decoration: none;
+}
+
+.titlepage h1.title {
+	font-size: 3.0em;
+	padding-top: 1em;
+	text-align:left;
+}
+
+.book > .titlepage h1.title {
+	text-align:center;
+}
+
+.article > .titlepage h1.title {
+	text-align:center;
+}
+
+.producttitle {
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-size: 3.0em;
+	font-weight: bold;
+	background: #336699 top left repeat;
+	color: white;
+	text-align: center;
+	padding: 0.7em;
+}
+
+.titlepage .corpauthor {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.section h1.title {
+	font-size: 1.6em;
+	padding: 0em;
+	color: #336699;
+	text-align: left;
+	background: white;
+}
+
+h2 {
+    font-size:1.6em;
+    margin-top:1em;
+    border-bottom:1px dotted #999;
+}
+
+
+h2.subtitle, h3.subtitle {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-size: 1.4em;
+	text-align: center;
+}
+
+.preface > div > div > div > h2.title {
+	margin-top: 1em;
+	font-size: 2.0em;
+}
+
+.appendix h2 {
+	margin-top: 1em;
+	font-size: 2.0em;
+}
+
+
+h3 {
+	font-size:1.3em;
+	padding-top:0em;
+	padding-bottom:0em;
+}
+h4 {
+	font-size:1.1em;
+	padding-top:0em;
+	padding-bottom:0em;
+}
+
+h5 {
+	font-size:1em;
+}
+
+h6 {
+	font-size:1em;
+}
+
+h5.formalpara {
+	font-size:1em;
+	margin-top:2em;
+	margin-bottom:.8em;
+}
+
+.abstract h6 {
+	margin-top:1em;
+	margin-bottom:.5em;
+	font-size:2em;
+}
+
+/*element rules*/
+hr {
+	border-collapse: collapse;
+	border-style:none;
+    border-left:none;
+    border-right:none;
+    border-bottom:1px solid #888;
+	width:100%;
+}
+
+sup {
+	color:#999;
+}
+
+/*Lists*/
+ul {
+	padding-left:1.6em;
+	list-style-type: circle;
+}
+
+ul ul {
+	list-style-type: circle;
+}
+
+ol {
+	list-style-image:none;
+	list-style-type: decimal;
+}
+
+ol.loweralpha {
+	list-style-type: lower-alpha;
+}
+
+ol.lowerroman {
+	list-style-type: lower-roman;
+}
+
+ol.upperalpha {
+	list-style-type: upper-alpha;
+}
+
+ol.upperroman {
+	list-style-type: upper-roman;
+}
+
+dt {
+	font-weight:bold;
+	margin-bottom:0em;
+	padding-bottom:0em;
+}
+
+dd {
+	margin:0em;
+	margin-left:2em;
+	padding-top:0em;
+	padding-bottom: 1em;
+}
+
+li {
+	padding-top:0px;
+	margin-top:0em;
+	padding-bottom:0px;
+	margin-bottom:0.4em;
+}
+
+li p, li div.para {
+	padding-top:0px;
+	margin-top:0em;
+	padding-bottom:0px;
+	margin-bottom:0.3em;
+}
