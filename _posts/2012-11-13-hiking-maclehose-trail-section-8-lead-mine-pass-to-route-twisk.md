@@ -4,7 +4,7 @@ date: 2012-11-13T01:00:39
 author: Eric Ma
 layout: post
 ---
-The Section 8 of MacLehose Trail starts from Lead Mine Pass (鉛鑛凹) and finishes at Route Twisk (荃錦公路), with overall length of 9.7 kilometres. We went hiking on Nov. 11 along the Section 8 of MacLehose. We climbed over Hong Kong’s highest mountain — Tai Mo Shan, 957 metres high, and followed the zigzag raod down to Route Twisk. There is no public transportation to the Lead Mine Pass, so we went to Yuen Tun Ha (元墩下) first.
+The Section 8 of MacLehose Trail starts from Lead Mine Pass (鉛鑛凹) and finishes at Route Twisk (荃錦公路), with overall length of 9.7 kilometres. We went hiking on Nov. 11 along the Section 8 of MacLehose. We climbed over Hong Kong’s highest mountain - Tai Mo Shan, 957 metres high, and followed the zigzag raod down to Route Twisk. There is no public transportation to the Lead Mine Pass, so we went to Yuen Tun Ha (元墩下) first.
 
 My suggested route for hiking Section 8 of MacLehose trail are as follows.
 

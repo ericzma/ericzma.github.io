@@ -18,7 +18,7 @@ for a particular purpose.
 - **No warranty.** All content is provided "AS IS" and may contain errors,
   omissions, or become outdated. Use at your own risk.
 - **No liability.** To the maximum extent permitted by law, the author shall
-  not be liable for any loss or damage — direct or indirect — arising from the
+  not be liable for any loss or damage (direct or indirect) arising from the
   use of, or reliance on, any content on this site, including but not limited
   to data loss, system damage, financial loss, or business interruption.
 - **Experiments and code.** Commands, code, and configurations published here
