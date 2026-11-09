@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title | escape }}</h1>
+  <p class="meta"><time>{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {{ page.author | default: site.author | escape }}</p>
+
+  {{ content }}
+</article>

@@ -27,6 +27,13 @@ or
 
 Email: zma [at] [this website domain]
 
-## Posts
+## Recent Posts
 
-See the [posts index]({{ '/posts/' | relative_url }}) for all articles.
+{% for post in site.posts limit: 10 %}
+<article class="recent-post">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+  <p class="meta"><time>{{ post.date | date: "%B %-d, %Y" }}</time> &middot; {{ post.author | default: site.author | escape }}</p>
+</article>
+{% endfor %}
+
+<p><a href="{{ '/posts/' | relative_url }}">Browse all posts &rarr;</a></p>

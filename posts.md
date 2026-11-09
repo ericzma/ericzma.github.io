@@ -3,9 +3,11 @@ layout: page
 title: Posts
 ---
 
+<ul class="posts">
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date_to_string }}
+  <li><time>{{ post.date | date: "%Y-%m-%d" }}</time><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
 {% endfor %}
+</ul>
 
 ---
 
