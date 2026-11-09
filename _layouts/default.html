@@ -5,15 +5,13 @@
 
   <body>
 
-    {%- include header.html -%}
+    <main>
+      {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      {{ content }}
+
+      {%- include footer.html -%}
     </main>
-
-    {%- include footer.html -%}
 
     <!-- Default Statcounter code for Eric's Blog
     http://www.ericzma.com/blog/ -->
