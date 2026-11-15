@@ -2,8 +2,13 @@
 layout: default
 ---
 <article>
-  <h1>{{ page.title | escape }}</h1>
-  <p class="meta"><time>{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {{ page.author | default: site.author | escape }}</p>
+  <header class="post-header">
+    <h1>{{ page.title | escape }}</h1>
+    <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} &middot; {{ page.author | escape }}{% endif %}</p>
+  </header>
 
   {{ content }}
 </article>
+<footer class="post-footer">
+  <p>To leave comments or report issues, please create a PR or report an issue at <a href="https://github.com/ericzma/ericzma.github.io" target="_blank" rel="noopener">https://github.com/ericzma/ericzma.github.io</a>.</p>
+</footer>
