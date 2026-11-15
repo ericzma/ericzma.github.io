@@ -97,6 +97,27 @@ hr {
   color: #888;
   font-size: 0.9rem;
 }
+header.post-header {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1.2rem;
+  margin-bottom: 2rem;
+}
+header.post-header h1 {
+  margin-bottom: 0.5rem;
+}
+header.post-header .meta {
+  margin: 0;
+}
+.post-footer {
+  margin-top: 3rem;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+.post-footer p {
+  margin-bottom: 0;
+}
 ul.posts {
   list-style: none;
   padding-left: 0;
@@ -153,6 +174,13 @@ footer.site a {
   }
   header.site {
     border-color: #333;
+  }
+  header.post-header {
+    border-color: #333;
+  }
+  .post-footer {
+    border-color: #333;
+    color: #999;
   }
   p {
     color: #bbb;

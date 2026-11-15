@@ -2,3 +2,6 @@ title: Eric's Site
 description: Eric (Zhiqiang) Ma's personal site
 author: Eric Ma
 permalink: /:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
